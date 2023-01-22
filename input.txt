@@ -1,0 +1,7 @@
+Hey, put the text you want to input into this file please! 
+Hello world! 
+Testing testing, 123.
+Follow @luciathegexfan on Twitter.
+The quick brown fox jumped over the lazy dog.
+Sphinx of black quartz, judge my vow.
+Figuring out how to use wide characters/strings for this program caused my brain to bleed uncontrollably. 
