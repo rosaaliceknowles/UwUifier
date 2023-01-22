@@ -7,7 +7,7 @@ C++ program that takes a text input and uwuifies it. Great for furry rp.
 3. Put some text into the .txt file you just created. 
 4. Open the .exe file
 5. The uwuified text should be output into the same directory in a text file named "output.txt"
-<br/>
+
 ![Terminal](https://user-images.githubusercontent.com/120340173/213937232-8b7d84dc-b26b-47fd-8291-f4f2ed5ae555.png "Terminal")
 
 
