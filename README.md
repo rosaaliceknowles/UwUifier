@@ -12,5 +12,5 @@ C++ program that takes a text input and uwuifies it. Great for furry rp.
 
 
 # Credits 
-With out Stack Overflow I would've killed myself <br/>
+Without Stack Overflow I would've killed myself <br/>
 Follow me on Twitter [@luciathegexfan](https://twitter.com/LuciaTheGexFan)
